@@ -1,0 +1,19 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html",
+    "exclude": [
+      "/images/*.{png,jpg,gif}",
+      "/css/*",
+      "/favicon-16x16.png",
+      "/favicon-32x32.png",
+      "/favicon-48x48.png",
+      "/apple-touch-icon.png",
+      "/pwa-192x192.png",
+      "/pwa-512x512.png",
+      "/manifest.webmanifest"
+    ]
+  },
+  "mimeTypes": {
+    ".webmanifest": "application/manifest+json"
+  }
+}
