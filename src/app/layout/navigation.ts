@@ -1,13 +1,13 @@
 export interface NavigationItem {
   key: 'records';
-  path: '/';
+  path: '/records';
   label: string;
 }
 
 export const navigationItems = [
   {
     key: 'records',
-    path: '/',
+    path: '/records',
     label: 'Records',
   },
 ] as const satisfies readonly NavigationItem[];

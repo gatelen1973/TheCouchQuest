@@ -37,7 +37,7 @@ export function Sidebar({ selected, mobileOpen, onMobileClose, onSelect }: Sideb
     >
       <Toolbar sx={{ minHeight: `${shellTopBarHeight}px !important`, px: 2 }}>
         <Typography variant="subtitle1" sx={{ fontWeight: 700 }}>
-          Dashboard
+          The Couch Quest
         </Typography>
       </Toolbar>
       <List sx={{ px: 1 }}>

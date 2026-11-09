@@ -1,14 +1,14 @@
 {
   "id": "/",
-  "name": "Dashboard",
-  "short_name": "Dashboard",
-  "description": "Dashboard template",
+  "name": "The Couch Quest",
+  "short_name": "Couch Quest",
+  "description": "Gather your party and begin an adventure from the couch.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#f5f7fa",
-  "theme_color": "#edf1f6",
+  "background_color": "#14201b",
+  "theme_color": "#14201b",
   "icons": [
     {
       "src": "/apple-touch-icon.png",
